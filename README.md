@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">CHAOS ARCHITECT</h1>
 
-<!--
-**thezelax/thezelax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre align="center">
+I don’t reverse to understand. I reverse to laugh.  
+Your logic is guesswork. Your defenses are delays.  
+Your binary isn’t secure. It’s pathetic.
+</pre>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## WHO I AM
+
+- I reverse engineer low-level software, tear apart binaries, and break things you thought were safe.  
+- I don't follow documentation. I follow execution flow.  
+- If something runs, I can control it. If it's protected, it's not enough.  
+- I don't chase exploits — I create them.  
+- You're not ahead. You're just not targeted yet.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Dominance-black?style=flat&labelColor=black&color=red">
+  <img src="https://img.shields.io/badge/Code%20Ownership-Total-darkred?style=flat&labelColor=black">
+  <img src="https://img.shields.io/badge/Threat%20Level-Untouchable-black?style=flat&labelColor=black&color=darkred">
+</p>

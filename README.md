@@ -13,7 +13,7 @@ Your binary isn’t secure. It’s pathetic.
 - I reverse engineer low-level software, tear apart binaries, and break things you thought were safe.  
 - I don't follow documentation. I follow execution flow.  
 - If something runs, I can control it. If it's protected, it's not enough.  
-- I don't chase exploits — I create them.  
+- I don't chase exploits - I create them.  
 - You're not ahead. You're just not targeted yet.
 
 ---

@@ -2,7 +2,6 @@
 
 <pre align="center">
 I don’t reverse to understand. I reverse to laugh.  
-Your logic is guesswork. Your defenses are delays.  
 Your binary isn’t secure. It’s pathetic.
 </pre>
 
